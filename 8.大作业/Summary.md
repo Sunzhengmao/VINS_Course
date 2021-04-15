@@ -1,3 +1,5 @@
+### 实现了DogLeg法
+在代码中实现了DogLeg优化方法，该方法属于信赖域法
 ### 代码结构与逻辑
 - **run_euroc.cpp**
   生成3个线程，分别为①imu、②img、③backend   
